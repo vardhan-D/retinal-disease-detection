@@ -39,7 +39,7 @@ Early detection of retinal diseases like CNV and DME is crucial for preventing v
 ## 👁️ Grad-CAM Visualization
 Grad-CAM highlights the regions in the OCT image where the model focuses while making predictions, improving interpretability in medical AI.
 
-![GradCAM](image1.png)
+![GradCAM](Screenshot 2026-04-02 090203.png)
 ![ConfusionMatrix](image2.png)
 
 ---
